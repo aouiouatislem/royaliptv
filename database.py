@@ -6,8 +6,6 @@ channels = []
 categories = {}
 
 def load():
-    print("Categories:", len(categories))
-print("Channels:", len(channels))
     global channels, categories
 
     channels = []
@@ -31,7 +29,7 @@ print("Channels:", len(channels))
 
         for i in range(len(lines)):
             if lines[i].startswith("#EXTINF") and i + 1 < len(lines):
-                name = lines[i].split(",")[-1].strip()
+                name = lines[i].split(",", 1)[-1].strip()
                 url = lines[i + 1].strip()
 
                 channels.append({
@@ -43,3 +41,6 @@ print("Channels:", len(channels))
                 })
 
                 cid += 1
+
+    print("Categories:", len(categories))
+    print("Channels:", len(channels))
