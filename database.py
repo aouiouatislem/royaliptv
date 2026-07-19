@@ -18,37 +18,37 @@ def load():
     global lives, movies, series_list, series_episodes
     global live_categories, vod_categories, series_categories
 
-    lives = []
-    movies = []
-    series_list = []
-    series_episodes = {}
-    
-    live_categories = {}
-    vod_categories = {}
-    series_categories = {}
+    # تفريغ القوائم في حالة إعادة التشغيل لتجنب التكرار
+    lives.clear()
+    movies.clear()
+    series_list.clear()
+    series_episodes.clear()
+    live_categories.clear()
+    vod_categories.clear()
+    series_categories.clear()
 
     current_timestamp = str(int(time.time()))
-    print("Fetching and splitting M3U... Please wait.")
+    print("Fetching and parsing M3U line-by-line... Please wait.")
     
     req = urllib.request.Request(SOURCE_URL, headers={'User-Agent': 'VLC/3.0.16 LibVLC/3.0.16'})
+    
     try:
-        with urllib.request.urlopen(req) as response:
-            content = response.read().decode('utf-8', errors='ignore')
+        # نفتح الاتصال دون تحميل المحتوى بالكامل (Streaming)
+        response = urllib.request.urlopen(req)
     except Exception as e:
         print(f"Error fetching the link: {e}")
         return
 
-    lines = content.splitlines()
     current_extinf = ""
-    
     series_name_to_id = {}
     series_id_counter = 1
     live_id_counter = 1
     movie_id_counter = 1
     episode_id_counter = 1
 
-    for line in lines:
-        line = line.strip()
+    # قراءة الملف سطراً بسطر مباشرة من مسار الشبكة
+    for raw_line in response:
+        line = raw_line.decode('utf-8', errors='ignore').strip()
         if not line:
             continue
             
@@ -60,15 +60,12 @@ def load():
                 
             name = current_extinf.split(",", 1)[-1].strip()
             
-            # استخراج التصنيف
             match_cat = re.search(r'group-title="([^"]+)"', current_extinf)
             category_name = match_cat.group(1).strip() if match_cat else "Uncategorized"
             
-            # استخراج الأيقونة
             match_logo = re.search(r'tvg-logo="([^"]+)"', current_extinf)
             stream_icon = match_logo.group(1).strip() if match_logo else ""
 
-            # الفرز الذكي بناءً على رابط محتوى الميديا
             if "/movie/" in line:
                 if category_name not in vod_categories:
                     vod_categories[category_name] = len(vod_categories) + 1
@@ -94,7 +91,6 @@ def load():
                 if category_name not in series_categories:
                     series_categories[category_name] = len(series_categories) + 1
                 
-                # استخراج الموسم والحلقة بريجكس ذكي يدعم S01E01 أو 1x01
                 season = 1
                 episode = 1
                 series_name = name
@@ -171,6 +167,8 @@ def load():
                 live_id_counter += 1
 
             current_extinf = ""
+            
+    response.close() # إغلاق الاتصال بعد الانتهاء
 
     print(f"Loaded {len(live_categories)} Live Cats, {len(lives)} Live Streams.")
     print(f"Loaded {len(vod_categories)} Movie Cats, {len(movies)} Movies.")
