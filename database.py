@@ -1,11 +1,13 @@
 import os
 
-PLAYLISTS_DIR = "playlists"
+PLAYLISTS_DIR = os.path.join(os.path.dirname(__file__), "playlists")
 
 channels = []
 categories = {}
 
 def load():
+    print("Categories:", len(categories))
+print("Channels:", len(channels))
     global channels, categories
 
     channels = []
