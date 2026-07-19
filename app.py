@@ -1,6 +1,7 @@
-from flask import Flask, Response, jsonify, request
+from flask import Flask, Response, request
 from database import load
 from xtream import live_categories, live_streams
+from auth import login
 import os
 
 app = Flask(__name__)
@@ -36,7 +37,16 @@ def all_m3u():
 
 @app.route("/player_api.php")
 def player_api():
-    action = request.args.get("action")
+
+    username = request.args.get("username", "")
+    password = request.args.get("password", "")
+    action = request.args.get("action", "")
+
+    if username or password:
+        auth = login(username, password)
+
+        if action == "":
+            return auth
 
     if action == "get_live_categories":
         return live_categories()
@@ -44,18 +54,7 @@ def player_api():
     if action == "get_live_streams":
         return live_streams()
 
-    return jsonify({
-        "user_info": {
-            "username": "royal",
-            "password": "123",
-            "auth": 1,
-            "status": "Active"
-        },
-        "server_info": {
-            "url": "royaliptv.onrender.com",
-            "https_port": "443"
-        }
-    })
+    return login(username, password)
 
 
 if __name__ == "__main__":
