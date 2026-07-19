@@ -1,31 +1,30 @@
 from flask import Flask, Response
 import os
-import re
 
 app = Flask(__name__)
 
+PLAYLIST_DIR = "playlists"
+
 @app.route("/")
 def home():
-    return "Royal IPTV"
+    return "Royal IPTV Server Online"
 
 @app.route("/all.m3u")
-def playlist():
+def all_m3u():
     output = "#EXTM3U\n"
 
-    for filename in sorted(os.listdir(".")):
+    if not os.path.exists(PLAYLIST_DIR):
+        return Response(output, mimetype="audio/x-mpegurl")
+
+    for filename in sorted(os.listdir(PLAYLIST_DIR)):
         if filename.lower().endswith(".m3u"):
-            category = os.path.splitext(filename)[0]
+            path = os.path.join(PLAYLIST_DIR, filename)
 
-            with open(filename, "r", encoding="utf-8", errors="ignore") as f:
-                lines = f.readlines()
+            with open(path, "r", encoding="utf-8", errors="ignore") as f:
+                data = f.read()
 
-            for line in lines:
-                if line.startswith("#EXTINF"):
-                    if "group-title=" in line:
-                        line = re.sub(r'group-title="[^"]*"', f'group-title="{category}"', line)
-                    else:
-                        line = line.replace(",", f' group-title="{category}",')
-                output += line
+            data = data.replace("#EXTM3U", "").strip()
+            output += "\n" + data + "\n"
 
     return Response(output, mimetype="audio/x-mpegurl")
 
