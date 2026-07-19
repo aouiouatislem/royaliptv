@@ -1,5 +1,5 @@
 from flask import jsonify
-from database import channels, categories
+import database
 
 def live_categories():
     return jsonify([
@@ -8,14 +8,14 @@ def live_categories():
             "category_name": name,
             "parent_id": 0
         }
-        for name, cid in categories.items()
+        for name, cid in database.categories.items()
     ])
 
 
 def live_streams():
     data = []
 
-    for ch in channels:
+    for ch in database.channels:
         data.append({
             "num": ch["id"],
             "name": ch["name"],
