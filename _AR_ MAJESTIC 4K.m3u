@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,AR - MAJESTIC ACTION
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006826&extension=ts
+#EXTINF:-1,AR - MAJESTIC ACTION EN
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006833&extension=ts
+#EXTINF:-1,AR - MAJESTIC ADVENTURE
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006832&extension=ts
+#EXTINF:-1,AR - MAJESTIC ANIMATION
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006837&extension=ts
+#EXTINF:-1,AR - MAJESTIC COMEDY
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006828&extension=ts
+#EXTINF:-1,AR - MAJESTIC COMEDY EN
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006835&extension=ts
+#EXTINF:-1,AR - MAJESTIC DRAMA
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006827&extension=ts
+#EXTINF:-1,AR - MAJESTIC DRAMA EN
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006834&extension=ts
+#EXTINF:-1,AR - MAJESTIC FAMILY
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006831&extension=ts
+#EXTINF:-1,AR - MAJESTIC HORROR
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006829&extension=ts
+#EXTINF:-1,AR - MAJESTIC THRILLER
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006830&extension=ts
+#EXTINF:-1,AR - MAJESTIC THRILLER EN
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1006836&extension=ts

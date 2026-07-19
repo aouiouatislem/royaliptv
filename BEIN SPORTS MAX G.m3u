@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1,BEIN SPORTS MAX 1 FHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392994&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 1 HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392993&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 1 HEVC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392992&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 1 SD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392991&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 2 FHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392990&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 2 HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392989&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 2 HEVC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392988&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 2 SD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392987&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 3 FHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392986&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 3 HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392985&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 3 HEVC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392984&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 3 SD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392983&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 4 FHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392982&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 4 HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392981&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 4 HEVC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392980&extension=ts
+#EXTINF:-1,BEIN SPORTS MAX 4 SD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1392979&extension=ts

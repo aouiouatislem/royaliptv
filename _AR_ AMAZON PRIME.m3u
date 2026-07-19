@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,##### AMAZON PRIME #####
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908389&extension=ts
+#EXTINF:-1,AR - AMAZON ACTION
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908388&extension=ts
+#EXTINF:-1,AR - AMAZON CRIME
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908387&extension=ts
+#EXTINF:-1,AR - AMAZON DRAMA
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908385&extension=ts
+#EXTINF:-1,AR - AMAZON MYSTERY
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908386&extension=ts
+#EXTINF:-1,AR - AMAZON COMEDY
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908384&extension=ts
+#EXTINF:-1,AR - AMAZON WAR
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908383&extension=ts
+#EXTINF:-1,AR - AMAZON FAMILY
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908382&extension=ts
+#EXTINF:-1,AR - AMAZON MIXTA
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908381&extension=ts
+#EXTINF:-1,AR - AMAZON DIRECTO
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908380&extension=ts
+#EXTINF:-1,AR - AMAZON DOCUMENTARY
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908378&extension=ts
+#EXTINF:-1,AR - AMAZON ARABI +
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908377&extension=ts
+#EXTINF:-1,AR - AMAZON ARABI +2
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908376&extension=ts
+#EXTINF:-1,AR - AMAZON COMIC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908375&extension=ts
+#EXTINF:-1,AR - AMAZON KIDS
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=908374&extension=ts
