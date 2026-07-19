@@ -2,6 +2,7 @@ from flask import Flask, Response, request
 from database import load
 from xtream import live_categories, live_streams
 from auth import login
+from stream import play
 import os
 
 app = Flask(__name__)
@@ -19,20 +20,17 @@ def home():
 def all_m3u():
     output = "#EXTM3U\n"
 
-    if not os.path.exists(PLAYLIST_DIR):
-        return Response(output, mimetype="audio/x-mpegurl")
-
     for filename in sorted(os.listdir(PLAYLIST_DIR)):
         if filename.lower().endswith(".m3u"):
-            path = os.path.join(PLAYLIST_DIR, filename)
-
-            with open(path, "r", encoding="utf-8", errors="ignore") as f:
-                data = f.read()
-
-            data = data.replace("#EXTM3U", "").strip()
-            output += "\n" + data + "\n"
+            with open(os.path.join(PLAYLIST_DIR, filename), "r", encoding="utf-8", errors="ignore") as f:
+                output += f.read().replace("#EXTM3U", "") + "\n"
 
     return Response(output, mimetype="audio/x-mpegurl")
+
+
+@app.route("/live/<int:stream_id>")
+def live(stream_id):
+    return play(stream_id)
 
 
 @app.route("/player_api.php")
@@ -42,11 +40,8 @@ def player_api():
     password = request.args.get("password", "")
     action = request.args.get("action", "")
 
-    if username or password:
-        auth = login(username, password)
-
-        if action == "":
-            return auth
+    if action == "":
+        return login(username, password)
 
     if action == "get_live_categories":
         return live_categories()
