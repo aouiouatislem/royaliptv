@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1,##### QATAR TV #####
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=665320&extension=ts
+#EXTINF:-1,AR - QATAR TV
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=665321&extension=ts
+#EXTINF:-1,AR - QATAR 2 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=665322&extension=ts
+#EXTINF:-1,AR - RAYYAN UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=665325&extension=ts
+#EXTINF:-1,AR - AL RAYYAN Al QADEEM UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=665326&extension=ts
+#EXTINF:-1,AR - AL ARABY 2
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=683164&extension=ts

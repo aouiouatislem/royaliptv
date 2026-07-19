@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,##### HBO #####
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909102&extension=ts
+#EXTINF:-1,AR - HBO TOP TEN
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909101&extension=ts
+#EXTINF:-1,AR - HBO NOW MOVIES
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909100&extension=ts
+#EXTINF:-1,AR - HBO ACTION
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909099&extension=ts
+#EXTINF:-1,AR - HBO HISTORY
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909098&extension=ts
+#EXTINF:-1,AR - HBO CRIME
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909097&extension=ts
+#EXTINF:-1,AR - HBO MAX
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909096&extension=ts
+#EXTINF:-1,AR - HBO ARABIC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909095&extension=ts
+#EXTINF:-1,AR - HBO ASIAN
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909094&extension=ts
+#EXTINF:-1,AR - HBO BOLLYWOOD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909093&extension=ts
+#EXTINF:-1,AR - HBO ANIMATION
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=909092&extension=ts

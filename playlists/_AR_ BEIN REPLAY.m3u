@@ -1,0 +1,51 @@
+#EXTM3U
+#EXTINF:-1,##### CL REPLAY #####
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804241&extension=ts
+#EXTINF:-1,CL REPLAY INFO UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804240&extension=ts
+#EXTINF:-1,CL REPLAY 1 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804238&extension=ts
+#EXTINF:-1,CL REPLAY 2 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804237&extension=ts
+#EXTINF:-1,CL REPLAY 3 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804236&extension=ts
+#EXTINF:-1,CL REPLAY 4 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804235&extension=ts
+#EXTINF:-1,CL REPLAY 5 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804234&extension=ts
+#EXTINF:-1,CL REPLAY 6 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804233&extension=ts
+#EXTINF:-1,CL REPLAY 7 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804232&extension=ts
+#EXTINF:-1,CL REPLAY 8 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804231&extension=ts
+#EXTINF:-1,CL REPLAY 9 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804230&extension=ts
+#EXTINF:-1,CL REPLAY 10 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=804229&extension=ts
+#EXTINF:-1,##### EL REPLAY #####
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856255&extension=ts
+#EXTINF:-1,EL REPLAY INFO UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856254&extension=ts
+#EXTINF:-1,EL REPLAY 1 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856252&extension=ts
+#EXTINF:-1,EL REPLAY 2 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856251&extension=ts
+#EXTINF:-1,EL REPLAY 3 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856250&extension=ts
+#EXTINF:-1,EL REPLAY 4 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856249&extension=ts
+#EXTINF:-1,EL REPLAY 5 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856248&extension=ts
+#EXTINF:-1,EL REPLAY 6 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856247&extension=ts
+#EXTINF:-1,EL REPLAY 7 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856246&extension=ts
+#EXTINF:-1,EL REPLAY 8 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856245&extension=ts
+#EXTINF:-1,EL REPLAY 9 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856244&extension=ts
+#EXTINF:-1,EL REPLAY 10 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856243&extension=ts
+#EXTINF:-1,EL REPLAY 11 UHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=856242&extension=ts

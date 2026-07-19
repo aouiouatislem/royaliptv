@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,##### LEBANON #####
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257494&extension=ts
+#EXTINF:-1,LB - LEBANON TV
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257496&extension=ts
+#EXTINF:-1,LB - MTV LEBANON FHD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257497&extension=ts
+#EXTINF:-1,LB - MTV LEBANON HEVC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=662601&extension=ts
+#EXTINF:-1,LB - ALJADEED
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=662600&extension=ts
+#EXTINF:-1,LB - ALJADEED FHD ◉
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257498&extension=ts
+#EXTINF:-1,LB - ALJADEED HEVC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=662599&extension=ts
+#EXTINF:-1,LB - NBN LEBANON HD ◉
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257503&extension=ts
+#EXTINF:-1,LB - AL MANAR ◉
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257506&extension=ts
+#EXTINF:-1,LB - MTV LEBANON
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=662602&extension=ts
+#EXTINF:-1,LB - LBC HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257495&extension=ts
+#EXTINF:-1,LB - LBC 2 HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=1227500&extension=ts
+#EXTINF:-1,LB - LBC SAT
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257507&extension=ts
+#EXTINF:-1,LB - LBC INTERNATIONAL
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=770554&extension=ts
+#EXTINF:-1,AR - ONE TV LEBANON HEVC
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=722860&extension=ts
+#EXTINF:-1,LB - OTV TV
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257499&extension=ts
+#EXTINF:-1,LB - ALAAN TV HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257504&extension=ts
+#EXTINF:-1,LB - ARABICA HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257510&extension=ts
+#EXTINF:-1,LB - ONE TV
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257501&extension=ts
+#EXTINF:-1,LB - AL MASHHAD TV HD
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=869383&extension=ts
+#EXTINF:-1,LB - AL MAYADEEN
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=673277&extension=ts
+#EXTINF:-1,LB - RED TV
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=658852&extension=ts
+#EXTINF:-1,LB - TELELIBAN TV ◉
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257509&extension=ts
+#EXTINF:-1,LB - LDC LEBANON
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=257500&extension=ts
+#EXTINF:-1,##### LEBANON +6H #####
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646871&extension=ts
+#EXTINF:-1,LB - ALJADEED +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646872&extension=ts
+#EXTINF:-1,LB - AL MANAR +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646873&extension=ts
+#EXTINF:-1,LB - ONE TV LEBANON +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646874&extension=ts
+#EXTINF:-1,LB - OTV LEBANON +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646875&extension=ts
+#EXTINF:-1,LB - LDC LEBANON +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646876&extension=ts
+#EXTINF:-1,LB - LBC +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646877&extension=ts
+#EXTINF:-1,LB - LBC INTERNATIONAL +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646878&extension=ts
+#EXTINF:-1,LB - MTV LEBANON +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646880&extension=ts
+#EXTINF:-1,LB - TELE LEBANON FHD +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646881&extension=ts
+#EXTINF:-1,LB - TAQALLYN TV +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646884&extension=ts
+#EXTINF:-1,LB - IFILM ARABIC +6H
+http://dinodox.sbs/play/live.php?mac=00:1A:79:c5:5a:e4&stream=646885&extension=ts
