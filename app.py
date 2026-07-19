@@ -1,5 +1,6 @@
-from flask import Flask, Response, jsonify
-from database import load, channels, categories
+from flask import Flask, Response, jsonify, request
+from database import load
+from xtream import live_categories, live_streams
 import os
 
 app = Flask(__name__)
@@ -11,6 +12,7 @@ load()
 @app.route("/")
 def home():
     return "Royal IPTV Server Online"
+
 
 @app.route("/all.m3u")
 def all_m3u():
@@ -34,6 +36,14 @@ def all_m3u():
 
 @app.route("/player_api.php")
 def player_api():
+    action = request.args.get("action")
+
+    if action == "get_live_categories":
+        return live_categories()
+
+    if action == "get_live_streams":
+        return live_streams()
+
     return jsonify({
         "user_info": {
             "username": "royal",
@@ -43,25 +53,9 @@ def player_api():
         },
         "server_info": {
             "url": "royaliptv.onrender.com",
-            "https_port": 443
+            "https_port": "443"
         }
     })
-
-
-@app.route("/live/categories")
-def live_categories():
-    return jsonify([
-        {
-            "category_id": cid,
-            "category_name": name
-        }
-        for name, cid in categories.items()
-    ])
-
-
-@app.route("/live/streams")
-def live_streams():
-    return jsonify(channels)
 
 
 if __name__ == "__main__":
