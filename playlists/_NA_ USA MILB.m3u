@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1,USA - MILB 01 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725234&extension=ts
+#EXTINF:-1,USA - MILB 02 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725233&extension=ts
+#EXTINF:-1,USA - MILB 03 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725232&extension=ts
+#EXTINF:-1,USA - MILB 04 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725231&extension=ts
+#EXTINF:-1,USA - MILB 05 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725230&extension=ts
+#EXTINF:-1,USA - MILB 06 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725229&extension=ts
+#EXTINF:-1,USA - MILB 07 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725228&extension=ts
+#EXTINF:-1,USA - MILB 08 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725227&extension=ts
+#EXTINF:-1,USA - MILB 09 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725226&extension=ts
+#EXTINF:-1,USA - MILB 10 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725225&extension=ts
+#EXTINF:-1,USA - MILB 11 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725224&extension=ts
+#EXTINF:-1,USA - MILB 12 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725223&extension=ts
+#EXTINF:-1,USA - MILB 13 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725222&extension=ts
+#EXTINF:-1,USA - MILB 14 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725221&extension=ts
+#EXTINF:-1,USA - MILB 15 UHD [EVENTS]
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=725220&extension=ts

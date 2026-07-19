@@ -1,0 +1,403 @@
+#EXTM3U
+#EXTINF:-1,SP - TSN 1 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487807&extension=ts
+#EXTINF:-1,SP - TSN 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487806&extension=ts
+#EXTINF:-1,SP - TSN 3 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487805&extension=ts
+#EXTINF:-1,SP - TSN 4 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487804&extension=ts
+#EXTINF:-1,SP - TSN 5 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487803&extension=ts
+#EXTINF:-1,SP - SPORTSNET WORLD HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487796&extension=ts
+#EXTINF:-1,SP - GOLFPASS
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1374574&extension=ts
+#EXTINF:-1,SP - PICKLEBALL TV
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1296164&extension=ts
+#EXTINF:-1,SP - SPORTSNET PACIFIC HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487797&extension=ts
+#EXTINF:-1,SP - SPORTSNET ONTARIO HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487798&extension=ts
+#EXTINF:-1,SP - SPORTSNET ONE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487799&extension=ts
+#EXTINF:-1,SP - SPORTSNET WEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487800&extension=ts
+#EXTINF:-1,SP - SPORTSNET EAST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487801&extension=ts
+#EXTINF:-1,SP - SPORTSNET 360 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487802&extension=ts
+#EXTINF:-1,SP - SPORTSGRID
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=761910&extension=ts
+#EXTINF:-1,SP - MASN
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=750886&extension=ts
+#EXTINF:-1,SP - ESPN NEWS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487783&extension=ts
+#EXTINF:-1,SP - ESPN 1 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487782&extension=ts
+#EXTINF:-1,SP - ESPN 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487781&extension=ts
+#EXTINF:-1,SP - ESPN (ACCN) HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487777&extension=ts
+#EXTINF:-1,SP - ESPN U HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487778&extension=ts
+#EXTINF:-1,SP - ESPN GOALINE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487779&extension=ts
+#EXTINF:-1,SP - ACC NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=642531&extension=ts
+#EXTINF:-1,SP - NBC SPORTS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487784&extension=ts
+#EXTINF:-1,SP - NBC SPORTS BOSTON HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1140333&extension=ts
+#EXTINF:-1,SP - CBS SPORTS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487785&extension=ts
+#EXTINF:-1,SP - AT&T SPORTSNET PITTSBURGH HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=705798&extension=ts
+#EXTINF:-1,SP - AT&T SPORTSNET SOUTHWEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487677&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551772&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS LA LIGA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551771&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS XTRA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551770&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS XTRA N (ES) HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=887676&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS 4 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551769&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS 5 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551768&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS 6 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551767&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS 7 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551766&extension=ts
+#EXTINF:-1,SP - BEIN SPORTS 8 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551765&extension=ts
+#EXTINF:-1,SP - BIG TEN NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487676&extension=ts
+#EXTINF:-1,SP - CBN NEWS INTERNATIONAL
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487678&extension=ts
+#EXTINF:-1,SP - CSN BOSTON HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487631&extension=ts
+#EXTINF:-1,SP - CSN CALIFORNIA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487630&extension=ts
+#EXTINF:-1,SP - CSN CHICAGO HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487629&extension=ts
+#EXTINF:-1,SP - CSN CHICAGO PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487628&extension=ts
+#EXTINF:-1,SP - CSN PHILADELPHIA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487627&extension=ts
+#EXTINF:-1,SP - CSN PHILADELPHIA PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487626&extension=ts
+#EXTINF:-1,SP - CSN WASHINGTON HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487625&extension=ts
+#EXTINF:-1,SP - CSN WASHINGTON PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487624&extension=ts
+#EXTINF:-1,SP - ELEVEN SPORTS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487690&extension=ts
+#EXTINF:-1,SP - FANDUEL TV
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1171180&extension=ts
+#EXTINF:-1,SP - FANTASY SPORTS NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487674&extension=ts
+#EXTINF:-1,SP - FIGHT NETWORK (CA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487684&extension=ts
+#EXTINF:-1,SP - FIGHT NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487683&extension=ts
+#EXTINF:-1,SP - NBC GOLF PASS
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487682&extension=ts
+#EXTINF:-1,SP - FOX SOCCER PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487641&extension=ts
+#EXTINF:-1,SP - FOX SPORTS 1 USA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487776&extension=ts
+#EXTINF:-1,SP - FOX SPORTS 2 USA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487775&extension=ts
+#EXTINF:-1,SP - FOX SPORTS ARIZONA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487593&extension=ts
+#EXTINF:-1,SP - FOX SPORTS CINCINNATI
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487592&extension=ts
+#EXTINF:-1,SP - FOX SPORTS DETROIT
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487591&extension=ts
+#EXTINF:-1,SP - FOX SPORTS DETROIT HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487590&extension=ts
+#EXTINF:-1,SP - FOX SPORTS FLORIDA
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487589&extension=ts
+#EXTINF:-1,SP - FOX SPORTS FLORIDA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487588&extension=ts
+#EXTINF:-1,SP - FOX SPORTS MID WEST
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487587&extension=ts
+#EXTINF:-1,SP - FOX SPORTS NORTH ALT
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487586&extension=ts
+#EXTINF:-1,SP - FOX SPORTS NORTH HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487585&extension=ts
+#EXTINF:-1,SP - FOX SPORTS OHIO
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487584&extension=ts
+#EXTINF:-1,SP - FOX SPORTS OKLAHOMA
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487583&extension=ts
+#EXTINF:-1,SP - FOX SPORTS PRIME HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487582&extension=ts
+#EXTINF:-1,SP - FOX SPORTS PRIME TICKET
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487581&extension=ts
+#EXTINF:-1,SP - FOX SPORTS PRIME TICKET HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487773&extension=ts
+#EXTINF:-1,SP - FOX SPORTS RACING
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487774&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SAN DIEGO
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487580&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SAN DIEGO HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487579&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTH
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487578&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTH HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487575&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTH WEST
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487573&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTHEAST
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487577&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTHEAST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487576&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTHWEST
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487574&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTHWEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487572&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SOUTHWEST PLUS
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487571&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SUN
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487570&extension=ts
+#EXTINF:-1,SP - FOX SPORTS SUN HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487569&extension=ts
+#EXTINF:-1,SP - FOX SPORTS TENNESSEE
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487568&extension=ts
+#EXTINF:-1,SP - FOX SPORTS WEST
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487567&extension=ts
+#EXTINF:-1,SP - FOX SPORTS WEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487772&extension=ts
+#EXTINF:-1,SP - FOX SPORTS WISCONSIN HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487566&extension=ts
+#EXTINF:-1,SP - FUBO SPORTS 1 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=826144&extension=ts
+#EXTINF:-1,SP - FUBO SPORTS 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=826143&extension=ts
+#EXTINF:-1,SP - FUBO SPORTS 3 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=826142&extension=ts
+#EXTINF:-1,SP - FUBO SPORTS 4 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=826141&extension=ts
+#EXTINF:-1,SP - FUBO SPORTS 5 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=826140&extension=ts
+#EXTINF:-1,SP - GINX ESPORTS TV
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487673&extension=ts
+#EXTINF:-1,SP - ALTITUDE SPORTS 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=826906&extension=ts
+#EXTINF:-1,SP - ALTITUDE SPORTS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=826907&extension=ts
+#EXTINF:-1,SP - GOLF CHANNEL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487770&extension=ts
+#EXTINF:-1,SP - HORSE & COUNTRY
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487640&extension=ts
+#EXTINF:-1,SP - HPITV EAST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487637&extension=ts
+#EXTINF:-1,SP - HPITV HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487636&extension=ts
+#EXTINF:-1,SP - HPITV INTERNATIONAL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487639&extension=ts
+#EXTINF:-1,SP - HPITV WEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487638&extension=ts
+#EXTINF:-1,SP - LEAFS NATION NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487691&extension=ts
+#EXTINF:-1,SP - LONGHORN NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487672&extension=ts
+#EXTINF:-1,SP - MARQUEE SPORTS NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=736858&extension=ts
+#EXTINF:-1,SP - MAV TV HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487671&extension=ts
+#EXTINF:-1,SP - MLB NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487766&extension=ts
+#EXTINF:-1,SP - MLB STRIKE ZONE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487765&extension=ts
+#EXTINF:-1,SP - MOTOR TREND HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487670&extension=ts
+#EXTINF:-1,SP - MSG 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487654&extension=ts
+#EXTINF:-1,SP - MSG 2 PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487653&extension=ts
+#EXTINF:-1,SP - MSG HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487656&extension=ts
+#EXTINF:-1,SP - MSG PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487655&extension=ts
+#EXTINF:-1,SP - NAUTICAL CHANNEL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487669&extension=ts
+#EXTINF:-1,SP - GOL TV
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=825507&extension=ts
+#EXTINF:-1,SP - BIG TEN NETWORK OVERFLOW
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=825508&extension=ts
+#EXTINF:-1,SP - NBA TV HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487762&extension=ts
+#EXTINF:-1,SP - NBA TV (CA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487763&extension=ts
+#EXTINF:-1,SP - NBC GOLF HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487769&extension=ts
+#EXTINF:-1,SP - NESN HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487668&extension=ts
+#EXTINF:-1,SP - NESN PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487667&extension=ts
+#EXTINF:-1,SP - NFL REDZONE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487757&extension=ts
+#EXTINF:-1,SP - NFL NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487758&extension=ts
+#EXTINF:-1,SP - NHL NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487724&extension=ts
+#EXTINF:-1,SP - OLYMPIC CHANNEL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=551773&extension=ts
+#EXTINF:-1,SP - OUTDOOR CHANNEL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487666&extension=ts
+#EXTINF:-1,SP - OUTSIDE TV HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487665&extension=ts
+#EXTINF:-1,SP - PAC 12 ARIZONA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487651&extension=ts
+#EXTINF:-1,SP - PAC 12 BAY AREA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487650&extension=ts
+#EXTINF:-1,SP - PAC 12 LOS ANGELES HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487649&extension=ts
+#EXTINF:-1,SP - PAC 12 MOUNTAIN HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487648&extension=ts
+#EXTINF:-1,SP - GOLF CHANNEL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487652&extension=ts
+#EXTINF:-1,SP - PAC 12 OREGON HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487647&extension=ts
+#EXTINF:-1,SP - PAC 12 WASHINGTON HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487646&extension=ts
+#EXTINF:-1,SP - RED BULL TV
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1401031&extension=ts
+#EXTINF:-1,SP - RIDE TV HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487635&extension=ts
+#EXTINF:-1,SP - SEC NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487664&extension=ts
+#EXTINF:-1,SP - CBS SPORTS GOLAZO
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487632&extension=ts
+#EXTINF:-1,SP - SMASH SPORTS FHD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487663&extension=ts
+#EXTINF:-1,SP - SPECTRUM SPORTSNET
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487660&extension=ts
+#EXTINF:-1,SP - SPORTSMAN CHANNEL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487662&extension=ts
+#EXTINF:-1,SP - SPORTSNET LA DODGERS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487764&extension=ts
+#EXTINF:-1,SP - SPORTSNET LA LAKERS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487759&extension=ts
+#EXTINF:-1,SP - SPORTSNET NEW YORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487661&extension=ts
+#EXTINF:-1,SP - STADIUM 1 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487644&extension=ts
+#EXTINF:-1,SP - STADIUM 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487643&extension=ts
+#EXTINF:-1,SP - STADIUM 3 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487642&extension=ts
+#EXTINF:-1,SP - STADIUM HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487645&extension=ts
+#EXTINF:-1,SP - TENNIS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487689&extension=ts
+#EXTINF:-1,SP - TENNIS PLUS 1 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487688&extension=ts
+#EXTINF:-1,SP - TENNIS PLUS 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487687&extension=ts
+#EXTINF:-1,SP - TENNIS PLUS 3 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487686&extension=ts
+#EXTINF:-1,SP - TVG NETWORK
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487634&extension=ts
+#EXTINF:-1,SP - TVG NETWORK 2
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487633&extension=ts
+#EXTINF:-1,SP - ROOT SPORTS
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=714209&extension=ts
+#EXTINF:-1,SP - WILD TV
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487659&extension=ts
+#EXTINF:-1,SP - SPEEDVISION
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=942131&extension=ts
+#EXTINF:-1,SP - UFC NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487680&extension=ts
+#EXTINF:-1,SP - WORLD FISHING NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487658&extension=ts
+#EXTINF:-1,SP - WWE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487679&extension=ts
+#EXTINF:-1,SP - YES NETWORK HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487657&extension=ts
+#EXTINF:-1,SP - GEO SUPER HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487795&extension=ts
+#EXTINF:-1,SP - SONY SIX HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487791&extension=ts
+#EXTINF:-1,SP - STAR SPORTS 1 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487793&extension=ts
+#EXTINF:-1,SP - STAR SPORTS 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487792&extension=ts
+#EXTINF:-1,SP - BILLIARD TV
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=803920&extension=ts
+#EXTINF:-1,SP - WORLD POKER TOUR HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1090372&extension=ts
+#EXTINF:-1,SP - POKERGO HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=956083&extension=ts
+#EXTINF:-1,SP - TEN 1 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487790&extension=ts
+#EXTINF:-1,SP - TEN 2 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487789&extension=ts
+#EXTINF:-1,SP - TEN 3 HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487788&extension=ts
+#EXTINF:-1,SP - WILLOW CRICKET HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487787&extension=ts
+#EXTINF:-1,SP - FANDUEL NETBASE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620792&extension=ts
+#EXTINF:-1,SP - VSIN
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=701215&extension=ts
+#EXTINF:-1,SP - FANDUEL OKLAHOMA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=815927&extension=ts
+#EXTINF:-1,SP - FANDUEL NEW ORLEANS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=815926&extension=ts
+#EXTINF:-1,SP - FANDUEL SUN HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620791&extension=ts
+#EXTINF:-1,SP - FANDUEL TENNESSE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=816134&extension=ts
+#EXTINF:-1,SP - FANDUEL SOUTH GEORGIA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=816133&extension=ts
+#EXTINF:-1,SP - FANDUEL DETROIT PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=816132&extension=ts
+#EXTINF:-1,SP - FANDUEL CINCINNATI HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=816131&extension=ts
+#EXTINF:-1,SP - FANDUEL CAROLINAS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=816130&extension=ts
+#EXTINF:-1,SP - FANDUEL INDIANA PLUS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=816129&extension=ts
+#EXTINF:-1,SP - FANDUEL INDIANA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=816128&extension=ts
+#EXTINF:-1,SP - FANDUEL FLORIDA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620790&extension=ts
+#EXTINF:-1,SP - FANDUEL SOUTH HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620789&extension=ts
+#EXTINF:-1,SP - FANDUEL SOUTHEAST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620788&extension=ts
+#EXTINF:-1,SP - FANDUEL SOUTHWEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620787&extension=ts
+#EXTINF:-1,SP - FANDUEL MIDWEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620786&extension=ts
+#EXTINF:-1,SP - FANDUEL OHIO HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620785&extension=ts
+#EXTINF:-1,SP - FANDUEL GREAT LAKE HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620784&extension=ts
+#EXTINF:-1,SP - FANDUEL WISCONSIN HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620783&extension=ts
+#EXTINF:-1,SP - FANDUEL SAN DIEGO HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620782&extension=ts
+#EXTINF:-1,SP - FANDUEL WEST HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620781&extension=ts
+#EXTINF:-1,SP - FANDUEL SOCAL HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620780&extension=ts
+#EXTINF:-1,SP - FANDUEL DETROIT HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620779&extension=ts
+#EXTINF:-1,SP - FANDUEL NORTH HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620777&extension=ts
+#EXTINF:-1,SP - FANDUEL KANSAS CITY
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=714202&extension=ts
+#EXTINF:-1,SP - FANDUEL ARIZONA HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=620778&extension=ts
+#EXTINF:-1,SP - WILLOW CRICKET HD (CA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=487786&extension=ts
+#EXTINF:-1,SP - TNT (EAST) HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=552030&extension=ts
+#EXTINF:-1,SP - TNT (WEST) HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=552029&extension=ts

@@ -1,0 +1,353 @@
+#EXTM3U
+#EXTINF:-1,USA  - FOX NEWS HD
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=714249&extension=ts
+#EXTINF:-1,USA - FOX 2 SAINT LOUIS
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1030482&extension=ts
+#EXTINF:-1,USA - FOX 2 HONOLULU HI (KHON)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549846&extension=ts
+#EXTINF:-1,USA - FOX 2 DETROIT MI (WJBK)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549798&extension=ts
+#EXTINF:-1,USA - FOX 2 SAN FRANCISCO CA (KTVU)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549876&extension=ts
+#EXTINF:-1,USA - FOX 2 SAN JOSE CA (KTVU-PLUS)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549877&extension=ts
+#EXTINF:-1,USA - FOX 4 BILLINGS MT (KHMT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549778&extension=ts
+#EXTINF:-1,USA - FOX 4 GRAND JUNCTION CO (KFQX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549871&extension=ts
+#EXTINF:-1,USA - FOX 4 KANSAS CITY MO (WDAF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549783&extension=ts
+#EXTINF:-1,USA - FOX 4 DALLAS TX (KDFW)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=989754&extension=ts
+#EXTINF:-1,USA - FOX 5 ATLANTA GA (WAGA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549849&extension=ts
+#EXTINF:-1,USA - FOX 5 GREAT FALLS MT (KFBB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549777&extension=ts
+#EXTINF:-1,USA - FOX 5 IDAHO FALLS ID (KXPI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549843&extension=ts
+#EXTINF:-1,USA - FOX 5 LAS VEGAS NV (KVVU)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549771&extension=ts
+#EXTINF:-1,USA - FOX 5 NEW YORK NY (WNYW)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549764&extension=ts
+#EXTINF:-1,USA - FOX 5 WASHINGTON DC (WTTG)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549864&extension=ts
+#EXTINF:-1,USA - FOX 5+ WASHINGTON DC (WDCA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549865&extension=ts
+#EXTINF:-1,USA - FOX 6 BIRMINGHAM AL (WBRC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549893&extension=ts
+#EXTINF:-1,USA - FOX 6 MILWAUKEE WI (WITI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549677&extension=ts
+#EXTINF:-1,USA - FOX 7 AUSTIN TX (KTBC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549697&extension=ts
+#EXTINF:-1,USA - FOX 7 MIAMI FL (WSVN)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549856&extension=ts
+#EXTINF:-1,USA - FOX 8 NEW ORLEANS LA (WVUE)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1062882&extension=ts
+#EXTINF:-1,USA - FOX 8 CLEVELAND OH (WJW)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549747&extension=ts
+#EXTINF:-1,USA - FOX 8 GREENSBORO NC (WGHP)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549757&extension=ts
+#EXTINF:-1,USA - FOX 8 JOHNSTOWN PA (WWCP)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549734&extension=ts
+#EXTINF:-1,USA - FOX 9 CHATTANOOGA TN (WTVC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549715&extension=ts
+#EXTINF:-1,USA - FOX 9 EL CENTRO CA (KECY)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549873&extension=ts
+#EXTINF:-1,USA - FOX 9 MINNEAPOLIS MN (KMSP)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549794&extension=ts
+#EXTINF:-1,USA - FOX 9 SAINT PAUL MN (WFTC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549796&extension=ts
+#EXTINF:-1,USA - FOX 10 MOBILE AL (WALA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549896&extension=ts
+#EXTINF:-1,USA - FOX 10 PHOENIX AZ (KSAZ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549890&extension=ts
+#EXTINF:-1,USA - FOX 10 SAN ANGELO TX (KIDY)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549708&extension=ts
+#EXTINF:-1,USA - FOX 10 TERRE HAUTE IN (WTHI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549835&extension=ts
+#EXTINF:-1,USA - FOX 11 CHARLESTON WV (WVAH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549680&extension=ts
+#EXTINF:-1,USA - FOX 11 GREEN BAY WI (WLUK)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549674&extension=ts
+#EXTINF:-1,USA - FOX 11 LOS ANGELES CA (KTTV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549875&extension=ts
+#EXTINF:-1,USA - FOX 11 RENO NV (KRXI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549772&extension=ts
+#EXTINF:-1,USA - FOX 11 TUCSON AZ (KMSB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549891&extension=ts
+#EXTINF:-1,USA - FOX 12 SHERMAN TX (KXII)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549710&extension=ts
+#EXTINF:-1,USA - FOX  12 PORTLAND OR (KPTV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=995599&extension=ts
+#EXTINF:-1,USA - FOX 13 ALBUQUERQUE NM (KRQE)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549769&extension=ts
+#EXTINF:-1,USA - FOX 13 MEMPHIS TN (WHBQ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549719&extension=ts
+#EXTINF:-1,USA - FOX 13 SALT LAKE CITY UT (KSTU)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549693&extension=ts
+#EXTINF:-1,USA - FOX 13 SEATTLE WA (KCPQ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549683&extension=ts
+#EXTINF:-1,USA - FOX 13 TAMPA FL (WTVT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549861&extension=ts
+#EXTINF:-1,USA - FOX 14 AMARILLO TX (KCIT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549696&extension=ts
+#EXTINF:-1,USA - FOX 17 GRAND RAPIDS (WXMI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549701&extension=ts
+#EXTINF:-1,USA - FOX 14 GREENVILLE NC (WYDO)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549756&extension=ts
+#EXTINF:-1,USA - FOX 14 PITTSBURG KS (KFJX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549818&extension=ts
+#EXTINF:-1,USA - FOX 14 TWIN FALLS ID (KSVT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549844&extension=ts
+#EXTINF:-1,USA - FOX 14 WEST MONROE LA (KARD)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549815&extension=ts
+#EXTINF:-1,USA - FOX 15 ABILENE TX (KXVA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549695&extension=ts
+#EXTINF:-1,USA - FOX 15 FARGO ND (KVRR)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549753&extension=ts
+#EXTINF:-1,USA - FOX 15 LAFAYETTE LA (KADN)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549811&extension=ts
+#EXTINF:-1,USA - FOX 16 JACKSON TN (WJKT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549717&extension=ts
+#EXTINF:-1,USA - FOX 16 LAFAYETTE IN (WPBI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549834&extension=ts
+#EXTINF:-1,USA - FOX 16 LITTLE ROCK AR (KLRT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549884&extension=ts
+#EXTINF:-1,USA - FOX 17 DES MOINES IA (KDSM)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549827&extension=ts
+#EXTINF:-1,USA - FOX 17 MISSOULA MT (KTMF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549779&extension=ts
+#EXTINF:-1,USA - FOX 17 NASHVILLE TN (WZTV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549720&extension=ts
+#EXTINF:-1,USA - FOX 18 DAVENPORT IA (KLJB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549826&extension=ts
+#EXTINF:-1,USA - FOX 18 WICHITA FALLS TX (KJTL)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549713&extension=ts
+#EXTINF:-1,USA - FOX 19 NEWPORT KY (WXIX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549823&extension=ts
+#EXTINF:-1,USA - FOX 19 VICTORIA TX (KVCT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549711&extension=ts
+#EXTINF:-1,USA - FOX 20 MONTGOMERY AL (WCOV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549897&extension=ts
+#EXTINF:-1,USA - FOX 21 COLORADO SPRINGS CO (KXRM)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549869&extension=ts
+#EXTINF:-1,USA - FOX 21 DULUTH MN (KQDS)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549793&extension=ts
+#EXTINF:-1,USA - FOX 21 GREENVILLE SC (WHNS)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549726&extension=ts
+#EXTINF:-1,USA - FOX 22 COLUMBIA MO (KQFX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549782&extension=ts
+#EXTINF:-1,USA - FOX 22 HATTIESBURG MS (WHPM)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549788&extension=ts
+#EXTINF:-1,USA - FOX 22 SOUTH BEND IN (WSBT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549830&extension=ts
+#EXTINF:-1,USA - FOX 23 ALBANY NY (WXXA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549761&extension=ts
+#EXTINF:-1,USA - FOX 23 CAPE GIRARDEAU MO (KBSI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549781&extension=ts
+#EXTINF:-1,USA - FOX 23 PORTLAND ME (WPFO)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549808&extension=ts
+#EXTINF:-1,USA - FOX 23 TULSA OK (KOKI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549745&extension=ts
+#EXTINF:-1,USA - FOX 24 CHARLESTON SC (WTAT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549724&extension=ts
+#EXTINF:-1,USA - FOX 24 FORT SMITH AR (KFTA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549885&extension=ts
+#EXTINF:-1,USA - FOX 24 MACON GA (WGXA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549852&extension=ts
+#EXTINF:-1,USA - FOX 24 MIDLAND TX (KPEJ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549706&extension=ts
+#EXTINF:-1,USA - FOX 24 SANTA BARBARA CA (KKFX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549881&extension=ts
+#EXTINF:-1,USA - FOX 24 WICHITA KS (KSAS)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549817&extension=ts
+#EXTINF:-1,USA - FOX 25 BOSTON MA (WFXT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549803&extension=ts
+#EXTINF:-1,USA - FOX 25 GULFPORT MS (WXXV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549787&extension=ts
+#EXTINF:-1,USA - FOX 25 LA CROSSE WI (WLAX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549675&extension=ts
+#EXTINF:-1,USA - FOX 25 OKLAHOMA CITY OK (KOKH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549744&extension=ts
+#EXTINF:-1,USA - FOX 26 HOUSTON TX (KRIV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549702&extension=ts
+#EXTINF:-1,USA - FOX 26 WILMINGTON NC (WSFX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549759&extension=ts
+#EXTINF:-1,USA - FOX 26 FRESNO CA (KMPH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1113787&extension=ts
+#EXTINF:-1,USA - FOX 26 MEDFORD OR (KMVU)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549741&extension=ts
+#EXTINF:-1,USA - FOX 27 CHEYENNE WY (KLWY)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549672&extension=ts
+#EXTINF:-1,USA - FOX 27 ROANOKE VA (WFXR)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549688&extension=ts
+#EXTINF:-1,USA - FOX 28 CEDAR RAPIDS IA (KFXA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549825&extension=ts
+#EXTINF:-1,USA - FOX 28 COLUMBUS OH (WTTE)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549748&extension=ts
+#EXTINF:-1,USA - FOX 28 HARDEEVILLE SC (WTGS)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549727&extension=ts
+#EXTINF:-1,USA - FOX 28 PANAMA CITY FL (WPGX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549859&extension=ts
+#EXTINF:-1,USA - FOX 28 SPOKANE WA (KAYU)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549682&extension=ts
+#EXTINF:-1,USA - FOX 29 BUFFALO NY (WUTV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549763&extension=ts
+#EXTINF:-1,USA - FOX 29 LAKE CHARLES LA (KVHP)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549812&extension=ts
+#EXTINF:-1,USA - FOX 29 PHILADELPHIA PA (WTXF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549735&extension=ts
+#EXTINF:-1,USA - FOX 29 SAN ANTONIO TX (KABB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549709&extension=ts
+#EXTINF:-1,USA - FOX 30 JACKSONVILLE FL (WFOX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549855&extension=ts
+#EXTINF:-1,USA - FOX 30 MERIDIAN MS (WGBC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549790&extension=ts
+#EXTINF:-1,USA - FOX 31 ALBANY GA (WFXL)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549848&extension=ts
+#EXTINF:-1,USA - FOX 31 DENVER CO (KDVR)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549870&extension=ts
+#EXTINF:-1,USA - FOX 31 ROCHESTER NY (WUHF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549765&extension=ts
+#EXTINF:-1,USA - FOX 32 CHICAGO IL (WFLD)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549838&extension=ts
+#EXTINF:-1,USA - FOX 33 PALM SPRINGS CA (KDFX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549874&extension=ts
+#EXTINF:-1,USA - FOX 33 SHREVEPORT LA (KMSS)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549814&extension=ts
+#EXTINF:-1,USA - FOX 33 UTICA NY (WFXV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549767&extension=ts
+#EXTINF:-1,USA - FOX 33 WAUSAU WI (WZAW)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549678&extension=ts
+#EXTINF:-1,USA - FOX 34 DOTHAN AL (WDFX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549894&extension=ts
+#EXTINF:-1,USA - FOX 34 EUGENE OR (KLSR)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549740&extension=ts
+#EXTINF:-1,USA - FOX 34 LUBBOCK TX (KJTV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549705&extension=ts
+#EXTINF:-1,USA - FOX 35 ORLANDO FL (WOFL)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549858&extension=ts
+#EXTINF:-1,USA - FOX 35 RICHMOND VA (WRLH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549687&extension=ts
+#EXTINF:-1,USA - FOX 35 SALINAS CA (KCBA)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549879&extension=ts
+#EXTINF:-1,USA - FOX 36 CAPE CORAL FL (WFTX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549854&extension=ts
+#EXTINF:-1,USA - FOX 36 TOLEDO OH (WUPW)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549750&extension=ts
+#EXTINF:-1,USA - FOX 38 CORPUS CHRISTI TX (KSCC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549699&extension=ts
+#EXTINF:-1,USA - FOX 39 BEND OR (KFXO)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549739&extension=ts
+#EXTINF:-1,USA - FOX 39 GREENEVILLE TN (WEMT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549716&extension=ts
+#EXTINF:-1,USA - FOX 39 JONESBORO AR (KJNB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549886&extension=ts
+#EXTINF:-1,USA - FOX 39 LAREDO TX (KXOF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549703&extension=ts
+#EXTINF:-1,USA - FOX 39 ROCKFORD IL (WQRF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549839&extension=ts
+#EXTINF:-1,USA - FOX 40 BINGHAMTON NY (WICZ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549762&extension=ts
+#EXTINF:-1,USA - FOX 40 SPRINGFIELD MA (WGGB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549804&extension=ts
+#EXTINF:-1,USA - FOX 40 SACRAMENTO CA (KTXL)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1010692&extension=ts
+#EXTINF:-1,USA - FOX 40 JACKSON MS (WDBD)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549789&extension=ts
+#EXTINF:-1,USA - FOX 40 TALLAHASSEE FL (WTWC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549860&extension=ts
+#EXTINF:-1,USA - FOX 41 LOUISVILLE KY (WDRB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549822&extension=ts
+#EXTINF:-1,USA - FOX 41 YAKIMA WA (KCYU)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549684&extension=ts
+#EXTINF:-1,USA - FOX 42 OMAHA NE (KPTM)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549775&extension=ts
+#EXTINF:-1,USA - FOX 43 HARRISONBURG VA (WHSV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549686&extension=ts
+#EXTINF:-1,USA - FOX 43 KNOXVILLE TN (WTNZ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1031486&extension=ts
+#EXTINF:-1,USA - FOX 43 MYRTLE BEACH SC (WFXB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549728&extension=ts
+#EXTINF:-1,USA - FOX 43 TOPEKA KS (KTMJ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549819&extension=ts
+#EXTINF:-1,USA - FOX 29 WEST PALM BEACH (WFLX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549689&extension=ts
+#EXTINF:-1,USA - FOX 44 BATON ROUGE LA (WGMB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549810&extension=ts
+#EXTINF:-1,USA - FOX 44 BURLINGTON VT (WFFF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549691&extension=ts
+#EXTINF:-1,USA - FOX 44 EVANSVILLE IN (WEVV)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549831&extension=ts
+#EXTINF:-1,USA - FOX 44 SIOUX CITY IA (KPTH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549828&extension=ts
+#EXTINF:-1,USA - FOX 44 WACO TX (KWKT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549712&extension=ts
+#EXTINF:-1,USA - FOX 45 BALTIMORE MD (WBFF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549806&extension=ts
+#EXTINF:-1,USA - FOX 45 DAYTON OH (WRGT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549749&extension=ts
+#EXTINF:-1,USA - FOX 46 BELMONT NC (WJZY)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549755&extension=ts
+#EXTINF:-1,USA - FOX 47 LANSING MI (WSYM)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549801&extension=ts
+#EXTINF:-1,USA - FOX 47 MADISON WI (WMSN)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549676&extension=ts
+#EXTINF:-1,USA - FOX 47 ROCHESTER MN (KXLT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549795&extension=ts
+#EXTINF:-1,USA - FOX 48 ALEXANDRIA MS (WNTZ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549791&extension=ts
+#EXTINF:-1,USA - FOX 49 SPRINGFIELD MO (KRBK)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549784&extension=ts
+#EXTINF:-1,USA - FOX 50 RALEIGH NC (WRAZ)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549758&extension=ts
+#EXTINF:-1,USA - FOX 51 GAINESVILLE FL (WOGX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549857&extension=ts
+#EXTINF:-1,USA - FOX 51 LINCOLN NE (KFXL)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549774&extension=ts
+#EXTINF:-1,USA - FOX 51 LONGVIEW TX (KFXK)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549704&extension=ts
+#EXTINF:-1,USA - FOX 53 PITTSBURGH PA (WPGH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549736&extension=ts
+#EXTINF:-1,USA - FOX 54 AUGUSTA GA (WFXG)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549850&extension=ts
+#EXTINF:-1,USA - FOX 54 COLUMBUS GA (WXTX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549851&extension=ts
+#EXTINF:-1,USA - FOX 54 HUNTSVILLE AL (WZDX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549895&extension=ts
+#EXTINF:-1,USA - FOX 55 FORT WAYNE IN (WFFT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549832&extension=ts
+#EXTINF:-1,USA - FOX 55 SPRINGFIELD IL (WRSP)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549840&extension=ts
+#EXTINF:-1,USA - FOX 56 HAZLETON PA (WOLF)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549733&extension=ts
+#EXTINF:-1,USA - FOX 56 LEXINGTON KY (WDKY)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=1007603&extension=ts
+#EXTINF:-1,USA - FOX 56 LOCAL
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549821&extension=ts
+#EXTINF:-1,USA - FOX 57 COLUMBIA SC (WACH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549725&extension=ts
+#EXTINF:-1,USA - FOX 59 INDIANAPOLIS IN (WXIN)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549833&extension=ts
+#EXTINF:-1,USA - FOX 61 HARTFORD (WTIC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=993227&extension=ts
+#EXTINF:-1,USA - FOX 62 YOUNGSTOWN OH (WYFX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549751&extension=ts
+#EXTINF:-1,USA - FOX 64 PROVIDENCE RI (WNAC)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549730&extension=ts
+#EXTINF:-1,USA - FOX 66 ERIE PA (WFXP)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549732&extension=ts
+#EXTINF:-1,USA - FOX 66 FLINT MI (WSMH)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549799&extension=ts
+#EXTINF:-1,USA - FOX 67 BROWNSVILLE TX (KXFX)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549698&extension=ts
+#EXTINF:-1,USA - FOX 68 SYRACUSE NY (WSYT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549766&extension=ts
+#EXTINF:-1,USA - FOX 69 SAN DIEGO CA (KSWB)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=549880&extension=ts
+#EXTINF:-1,USA - FOX 2 ST LOUIS MO (KTVI)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=989727&extension=ts
+#EXTINF:-1,USA - FOX CHARLOTTE (WJZY)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=730131&extension=ts
+#EXTINF:-1,USA - FOX CHARLOTTE (WMYT)
+http://fastson.me/play/live.php?mac=00:1A:79:10:03:37&stream=730130&extension=ts
