@@ -1,4 +1,5 @@
 import os
+import time
 
 PLAYLISTS_DIR = os.path.join(os.path.dirname(__file__), "playlists")
 
@@ -12,6 +13,12 @@ def load():
     categories = {}
 
     cid = 1
+    
+    # توليد timestamp صالح لتعويض القيمة "0" التي قد تسبب Crash
+    current_timestamp = str(int(time.time()))
+
+    if not os.path.exists(PLAYLISTS_DIR):
+        os.makedirs(PLAYLISTS_DIR)
 
     for file in sorted(os.listdir(PLAYLISTS_DIR)):
         if not file.endswith(".m3u"):
@@ -37,7 +44,8 @@ def load():
                     "name": name,
                     "url": url,
                     "category_id": categories[category],
-                    "category_name": category
+                    "category_name": category,
+                    "added": current_timestamp
                 })
 
                 cid += 1
